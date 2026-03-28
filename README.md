@@ -50,7 +50,7 @@ API REST encargada de gestionar toda la lógica de negocio y comunicación con l
 
 - Login de usuarios mediante JWT
 - Obtención de clientes asignados
-- ⏱Control de jornada:
+- Control de jornada:
   - Inicio
   - Fin
   - Tiempo actual trabajado
