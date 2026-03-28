@@ -48,16 +48,16 @@ API REST encargada de gestionar toda la lógica de negocio y comunicación con l
 
 ### Funcionalidades principales
 
-- 🔐 Login de usuarios mediante JWT
-- 📋 Obtención de clientes asignados
-- ⏱️ Control de jornada:
+- Login de usuarios mediante JWT
+- Obtención de clientes asignados
+- ⏱Control de jornada:
   - Inicio
   - Fin
   - Tiempo actual trabajado
-- 📦 Gestión de pedidos:
+- Gestión de pedidos:
   - Marcar pedido como completado
   - Confirmación de entrega
-- 🛒 Endpoint para listado de productos
+- Endpoint para listado de productos
 
 ### Futuras mejoras
 
